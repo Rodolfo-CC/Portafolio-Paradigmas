@@ -439,4 +439,4 @@ El programa en C analizado en esta práctica ejemplifica de manera clara cómo s
 **Fecha:** 14 de marzo de 2025  
 **Materia:** Paradigmas de la Programación  
 **Profesor:** M. I. Jose Carlos Gallegos Mariscal  
-**Alumno:** Isis Vanesa Lopez Cisneros
+**Alumno:** Rodolfo Cabello Cuahutle
