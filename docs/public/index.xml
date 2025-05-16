@@ -16,11 +16,11 @@
       <description></description>
     </item>
     <item>
-      <title>Practica2 Python </title>
+      <title>Practica2 Python: Desglosando un Script de Gestión de Biblioteca</title>
       <link>http://localhost:1313/posts/practica2/</link>
       <pubDate>Fri, 21 Feb 2025 10:19:41 -0800</pubDate>
       <guid>http://localhost:1313/posts/practica2/</guid>
-      <description>&lt;h2 id=&#34;introducción&#34;&gt;&lt;strong&gt;Introducción&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;En este análisis, exploraremos un script de Python que implementa un sistema básico de gestión de bibliotecas. Examinaremos detalladamente los elementos fundamentales del lenguaje tal como se aplican en este código, identificando componentes clave como identificadores, objetos, espacios de nombres, bloques de código, alcance, y gestión de memoria (con énfasis en las características propias de Python y en la simulación incorporada). Además, abordaremos las estructuras de control, los tipos de datos utilizados y los principios de programación orientada a objetos presentes en la implementación.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;&lt;strong&gt;Introducción&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Este análisis desglosa un script de Python que implementa un sistema básico de gestión de bibliotecas. Nos sumergiremos en los elementos fundamentales del lenguaje aplicados en este código, identificando componentes clave como identificadores, objetos, espacios de nombres, bloques de código, alcance y gestión de memoria (con énfasis en las características de Python y una simulación incorporada). También abordaremos las estructuras de control, los tipos de datos y los principios de Programación Orientada a Objetos (POO) presentes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Practica1</title>

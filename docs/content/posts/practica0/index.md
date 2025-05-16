@@ -4,7 +4,6 @@ draft = false
 title = 'Practica 0: Markdown, Git & Hugo'
 +++
 
-<!-- Esto es un comentario -->
 
 # Encabezado 1
 
